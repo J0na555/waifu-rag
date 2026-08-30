@@ -1,0 +1,1993 @@
+{
+  "generated": "2026-08-30T17:46:12",
+  "seed_loader": "yaml",
+  "stats": {
+    "runtime_s": 180.4,
+    "requests": 29,
+    "network": 29,
+    "cache_hits": 290
+  },
+  "characters": [
+    {
+      "id": "taiga-aisaka",
+      "name": "Taiga Aisaka",
+      "series": "Toradora!",
+      "bucket": "tsundere",
+      "tier_target": "A",
+      "sources": {
+        "anilist": {
+          "status": "found",
+          "anilist_id": 12064,
+          "url": "https://anilist.co/character/12064",
+          "series": "Toradora!",
+          "match_method": "exact-name",
+          "query": "Taiga Aisaka"
+        },
+        "fandom": {
+          "status": "found",
+          "wiki": "tora-dora.fandom.com",
+          "url": "https://tora-dora.fandom.com/wiki/Taiga_Aisaka",
+          "page_title": "Taiga Aisaka",
+          "match_method": "exact",
+          "query": "Taiga Aisaka"
+        },
+        "tvtropes": {
+          "status": "found",
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/Characters/Toradora",
+          "match_method": "live-site"
+        },
+        "mal": {
+          "status": "found",
+          "mal_id": 12064,
+          "url": "https://myanimelist.net/character/12064",
+          "match_method": "MAL-search-name",
+          "name_on_page": "Aisaka, Taiga",
+          "query": "Taiga Aisaka",
+          "via": "MAL search page",
+          "series_confirmed": true,
+          "confirmed_by": {
+            "kind": "anime",
+            "id": 4224,
+            "title": "Toradora!",
+            "role": "Main"
+          }
+        },
+        "transcripts": {
+          "status": "note",
+          "note": "springfieldspringfield.co.uk episode transcripts (proven in pilot): https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=toradora-2008"
+        }
+      },
+      "feasibility_note": "4/4 core sources confirmed; tier A gate needs quotes/reception/key_moments at verification; strong on paper"
+    },
+    {
+      "id": "asuka-langley",
+      "name": "Asuka Langley",
+      "series": "Neon Genesis Evangelion",
+      "bucket": "tsundere",
+      "tier_target": "B",
+      "sources": {
+        "anilist": {
+          "status": "found",
+          "anilist_id": 94,
+          "url": "https://anilist.co/character/94",
+          "series": "Shin Seiki Evangelion",
+          "match_method": "contains-name",
+          "query": "Asuka Langley"
+        },
+        "fandom": {
+          "status": "found",
+          "wiki": "evangelion.fandom.com",
+          "url": "https://evangelion.fandom.com/wiki/Asuka_Langley_Sohryu",
+          "page_title": "Asuka Langley Sohryu",
+          "match_method": "top-search-hit",
+          "query": "Asuka Langley"
+        },
+        "tvtropes": {
+          "status": "found",
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/Characters/NeonGenesisEvangelion",
+          "match_method": "live-site"
+        },
+        "mal": {
+          "status": "found",
+          "mal_id": 94,
+          "url": "https://myanimelist.net/character/94",
+          "match_method": "MAL-search-name",
+          "name_on_page": "Souryuu, Asuka Langley",
+          "query": "Asuka Langley",
+          "via": "MAL search page",
+          "series_confirmed": true,
+          "confirmed_by": {
+            "kind": "anime",
+            "id": 30,
+            "title": "Shinseiki Evangelion",
+            "role": "Main"
+          }
+        },
+        "transcripts": {
+          "status": "note",
+          "note": "hunt at verification time"
+        }
+      },
+      "feasibility_note": "4/4 core sources confirmed; strong on paper"
+    },
+    {
+      "id": "rin-tohsaka",
+      "name": "Rin Tohsaka",
+      "series": "Fate/stay night",
+      "bucket": "tsundere",
+      "tier_target": "B",
+      "sources": {
+        "anilist": {
+          "status": "found",
+          "anilist_id": 498,
+          "url": "https://anilist.co/character/498",
+          "series": "Fate/Zero",
+          "match_method": "exact-name",
+          "query": "Rin Tohsaka"
+        },
+        "fandom": {
+          "status": "found",
+          "wiki": "typemoon.fandom.com",
+          "url": "https://typemoon.fandom.com/wiki/Rin_Tohsaka",
+          "page_title": "Rin Tohsaka",
+          "match_method": "exact",
+          "query": "Rin Tohsaka"
+        },
+        "tvtropes": {
+          "status": "found",
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/Characters/FateStayNight",
+          "match_method": "live-site"
+        },
+        "mal": {
+          "status": "found",
+          "mal_id": 498,
+          "url": "https://myanimelist.net/character/498",
+          "match_method": "MAL-search-name",
+          "name_on_page": "Toosaka, Rin",
+          "query": "Rin Toosaka",
+          "via": "MAL search page",
+          "series_confirmed": true,
+          "confirmed_by": {
+            "kind": "anime",
+            "id": 356,
+            "title": "Fate/stay night",
+            "role": "Main"
+          }
+        },
+        "transcripts": {
+          "status": "note",
+          "note": "hunt at verification time"
+        }
+      },
+      "feasibility_note": "4/4 core sources confirmed; strong on paper"
+    },
+    {
+      "id": "rei-ayanami",
+      "name": "Rei Ayanami",
+      "series": "Neon Genesis Evangelion",
+      "bucket": "kuudere",
+      "tier_target": "A",
+      "sources": {
+        "anilist": {
+          "status": "found",
+          "anilist_id": 86,
+          "url": "https://anilist.co/character/86",
+          "series": "Shin Seiki Evangelion",
+          "match_method": "exact-name",
+          "query": "Rei Ayanami"
+        },
+        "fandom": {
+          "status": "found",
+          "wiki": "evangelion.fandom.com",
+          "url": "https://evangelion.fandom.com/wiki/Rei_Ayanami",
+          "page_title": "Rei Ayanami",
+          "match_method": "exact",
+          "query": "Rei Ayanami"
+        },
+        "tvtropes": {
+          "status": "found",
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/Characters/NeonGenesisEvangelion",
+          "match_method": "live-site"
+        },
+        "mal": {
+          "status": "found",
+          "mal_id": 86,
+          "url": "https://myanimelist.net/character/86",
+          "match_method": "MAL-search-name",
+          "name_on_page": "Ayanami, Rei",
+          "query": "Rei Ayanami",
+          "via": "MAL search page",
+          "series_confirmed": true,
+          "confirmed_by": {
+            "kind": "anime",
+            "id": 30,
+            "title": "Shinseiki Evangelion",
+            "role": "Main"
+          }
+        },
+        "transcripts": {
+          "status": "note",
+          "note": "hunt at verification time"
+        }
+      },
+      "feasibility_note": "4/4 core sources confirmed; tier A gate needs quotes/reception/key_moments at verification; strong on paper"
+    },
+    {
+      "id": "yuki-nagato",
+      "name": "Yuki Nagato",
+      "series": "The Melancholy of Haruhi Suzumiya",
+      "bucket": "kuudere",
+      "tier_target": "B",
+      "sources": {
+        "anilist": {
+          "status": "found",
+          "anilist_id": 249,
+          "url": "https://anilist.co/character/249",
+          "series": "Suzumiya Haruhi no Yuuutsu",
+          "match_method": "exact-name",
+          "query": "Yuki Nagato"
+        },
+        "fandom": {
+          "status": "found",
+          "wiki": "haruhi.fandom.com",
+          "url": "https://haruhi.fandom.com/wiki/Yuki_Nagato",
+          "page_title": "Yuki Nagato",
+          "match_method": "exact",
+          "query": "Yuki Nagato"
+        },
+        "tvtropes": {
+          "status": "found",
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/Characters/HaruhiSuzumiya",
+          "match_method": "live-site"
+        },
+        "mal": {
+          "status": "found",
+          "mal_id": 249,
+          "url": "https://myanimelist.net/character/249",
+          "match_method": "MAL-search-name",
+          "name_on_page": "Nagato, Yuki",
+          "query": "Yuki Nagato",
+          "via": "MAL search page",
+          "series_confirmed": true,
+          "confirmed_by": {
+            "kind": "anime",
+            "id": 849,
+            "title": "Suzumiya Haruhi no Yuuutsu",
+            "role": "Main"
+          }
+        },
+        "transcripts": {
+          "status": "note",
+          "note": "hunt at verification time"
+        }
+      },
+      "feasibility_note": "4/4 core sources confirmed; strong on paper"
+    },
+    {
+      "id": "shiro-ngnl",
+      "name": "Shiro",
+      "series": "No Game No Life",
+      "bucket": "kuudere",
+      "tier_target": "B",
+      "sources": {
+        "anilist": {
+          "status": "found",
+          "anilist_id": 82525,
+          "url": "https://anilist.co/character/82525",
+          "series": "No Game No Life",
+          "match_method": "exact-name",
+          "query": "Shiro"
+        },
+        "fandom": {
+          "status": "found",
+          "wiki": "no-game-no-life.fandom.com",
+          "url": "https://no-game-no-life.fandom.com/wiki/Shiro",
+          "page_title": "Shiro",
+          "match_method": "exact",
+          "query": "Shiro"
+        },
+        "tvtropes": {
+          "status": "found",
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/Characters/NoGameNoLife",
+          "match_method": "live-site"
+        },
+        "mal": {
+          "status": "mismatch",
+          "mal_id": 170302,
+          "url": "https://myanimelist.net/character/170302",
+          "match_method": "MAL-search-name",
+          "name_on_page": "Shiro",
+          "query": "Shiro",
+          "via": "MAL search page",
+          "series_confirmed": false,
+          "needs_series_confirm": true,
+          "mismatch_detail": "page lists: Seijo no Yurikago, Dokujo no Hitsugi (Main)"
+        },
+        "transcripts": {
+          "status": "note",
+          "note": "hunt at verification time"
+        }
+      },
+      "feasibility_note": "3/4 core sources confirmed; mismatched: mal: page lists: Seijo no Yurikago, Dokujo no Hitsugi (Main); strong on paper"
+    },
+    {
+      "id": "hinata-hyuga",
+      "name": "Hinata Hyuga",
+      "series": "Naruto",
+      "bucket": "dandere",
+      "tier_target": "A",
+      "sources": {
+        "anilist": {
+          "status": "found",
+          "anilist_id": 1555,
+          "url": "https://anilist.co/character/1555",
+          "series": "NARUTO",
+          "match_method": "exact-name",
+          "query": "Hinata Hyuuga"
+        },
+        "fandom": {
+          "status": "found",
+          "wiki": "naruto.fandom.com",
+          "url": "https://naruto.fandom.com/wiki/Hinata_Hyūga",
+          "page_title": "Hinata Hyūga",
+          "match_method": "exact",
+          "query": "Hinata Hyuga"
+        },
+        "tvtropes": {
+          "status": "found",
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/Characters/Naruto",
+          "match_method": "live-site"
+        },
+        "mal": {
+          "status": "found",
+          "mal_id": 1555,
+          "url": "https://myanimelist.net/character/1555",
+          "match_method": "MAL-search-name",
+          "name_on_page": "Hyuuga, Hinata",
+          "query": "Hinata Hyuuga",
+          "via": "MAL search page",
+          "series_confirmed": true,
+          "confirmed_by": {
+            "kind": "anime",
+            "id": 20,
+            "title": "Naruto",
+            "role": "Supporting"
+          }
+        },
+        "transcripts": {
+          "status": "note",
+          "note": "hunt at verification time"
+        }
+      },
+      "feasibility_note": "4/4 core sources confirmed; tier A gate needs quotes/reception/key_moments at verification; strong on paper"
+    },
+    {
+      "id": "komi-shouko",
+      "name": "Shouko Komi",
+      "series": "Komi Can't Communicate",
+      "bucket": "dandere",
+      "tier_target": "B",
+      "sources": {
+        "anilist": {
+          "status": "found",
+          "anilist_id": 121956,
+          "url": "https://anilist.co/character/121956",
+          "series": "Komi-san wa, Komyushou desu.",
+          "match_method": "exact-name",
+          "query": "Shouko Komi"
+        },
+        "fandom": {
+          "status": "found",
+          "wiki": "komisan.fandom.com",
+          "url": "https://komisan.fandom.com/wiki/Komi_Shouko",
+          "page_title": "Komi Shouko",
+          "match_method": "exact",
+          "query": "Shouko Komi"
+        },
+        "tvtropes": {
+          "status": "found",
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/Characters/KomiCantCommunicate",
+          "match_method": "live-site"
+        },
+        "mal": {
+          "status": "found",
+          "mal_id": 141790,
+          "url": "https://myanimelist.net/character/141790",
+          "match_method": "MAL-search-name",
+          "name_on_page": "Komi, Shouko",
+          "query": "Shouko Komi",
+          "via": "MAL search page",
+          "series_confirmed": true,
+          "confirmed_by": {
+            "kind": "anime",
+            "id": 48926,
+            "title": "Komi-san wa, Comyushou desu.",
+            "role": "Main"
+          }
+        },
+        "transcripts": {
+          "status": "note",
+          "note": "hunt at verification time"
+        }
+      },
+      "feasibility_note": "4/4 core sources confirmed; strong on paper"
+    },
+    {
+      "id": "sawako-kuronuma",
+      "name": "Sawako Kuronuma",
+      "series": "Kimi ni Todoke",
+      "bucket": "dandere",
+      "tier_target": "B",
+      "sources": {
+        "anilist": {
+          "status": "found",
+          "anilist_id": 6977,
+          "url": "https://anilist.co/character/6977",
+          "series": "Kimi ni Todoke",
+          "match_method": "exact-name",
+          "query": "Sawako Kuronuma"
+        },
+        "fandom": {
+          "status": "found",
+          "wiki": "kiminitodoke.fandom.com",
+          "url": "https://kiminitodoke.fandom.com/wiki/Sawako_Kuronuma",
+          "page_title": "Sawako Kuronuma",
+          "match_method": "exact",
+          "query": "Sawako Kuronuma"
+        },
+        "tvtropes": {
+          "status": "found",
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/Characters/KimiNiTodoke",
+          "match_method": "live-site"
+        },
+        "mal": {
+          "status": "found",
+          "mal_id": 6977,
+          "url": "https://myanimelist.net/character/6977",
+          "match_method": "MAL-search-name",
+          "name_on_page": "Kuronuma, Sawako",
+          "query": "Sawako Kuronuma",
+          "via": "MAL search page",
+          "series_confirmed": true,
+          "confirmed_by": {
+            "kind": "anime",
+            "id": 6045,
+            "title": "Kimi ni Todoke",
+            "role": "Main"
+          }
+        },
+        "transcripts": {
+          "status": "note",
+          "note": "hunt at verification time"
+        }
+      },
+      "feasibility_note": "4/4 core sources confirmed; strong on paper"
+    },
+    {
+      "id": "yui-hirasawa",
+      "name": "Yui Hirasawa",
+      "series": "K-On!",
+      "bucket": "genki",
+      "tier_target": "A",
+      "sources": {
+        "anilist": {
+          "status": "found",
+          "anilist_id": 19565,
+          "url": "https://anilist.co/character/19565",
+          "series": "K-ON!",
+          "match_method": "exact-name",
+          "query": "Yui Hirasawa"
+        },
+        "fandom": {
+          "status": "found",
+          "wiki": "k-on.fandom.com",
+          "url": "https://k-on.fandom.com/wiki/Yui_Hirasawa",
+          "page_title": "Yui Hirasawa",
+          "match_method": "exact",
+          "query": "Yui Hirasawa"
+        },
+        "tvtropes": {
+          "status": "found",
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/Characters/KOn",
+          "match_method": "live-site"
+        },
+        "mal": {
+          "status": "found",
+          "mal_id": 19565,
+          "url": "https://myanimelist.net/character/19565",
+          "match_method": "MAL-search-name",
+          "name_on_page": "Hirasawa, Yui",
+          "query": "Yui Hirasawa",
+          "via": "MAL search page",
+          "series_confirmed": true,
+          "confirmed_by": {
+            "kind": "anime",
+            "id": 5680,
+            "title": "K-On!",
+            "role": "Main"
+          }
+        },
+        "transcripts": {
+          "status": "note",
+          "note": "hunt at verification time"
+        }
+      },
+      "feasibility_note": "4/4 core sources confirmed; tier A gate needs quotes/reception/key_moments at verification; strong on paper"
+    },
+    {
+      "id": "konata-izumi",
+      "name": "Konata Izumi",
+      "series": "Lucky Star",
+      "bucket": "genki",
+      "tier_target": "B",
+      "sources": {
+        "anilist": {
+          "status": "found",
+          "anilist_id": 2169,
+          "url": "https://anilist.co/character/2169",
+          "series": "Lucky☆Star",
+          "match_method": "exact-name",
+          "query": "Konata Izumi"
+        },
+        "fandom": {
+          "status": "found",
+          "wiki": "luckystar.fandom.com",
+          "url": "https://luckystar.fandom.com/wiki/Konata_Izumi",
+          "page_title": "Konata Izumi",
+          "match_method": "exact",
+          "query": "Konata Izumi"
+        },
+        "tvtropes": {
+          "status": "found",
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/Characters/LuckyStar",
+          "match_method": "live-site"
+        },
+        "mal": {
+          "status": "found",
+          "mal_id": 2169,
+          "url": "https://myanimelist.net/character/2169",
+          "match_method": "MAL-search-name",
+          "name_on_page": "Izumi, Konata",
+          "query": "Konata Izumi",
+          "via": "MAL search page",
+          "series_confirmed": true,
+          "confirmed_by": {
+            "kind": "anime",
+            "id": 1887,
+            "title": "Lucky☆Star",
+            "role": "Main"
+          }
+        },
+        "transcripts": {
+          "status": "note",
+          "note": "hunt at verification time"
+        }
+      },
+      "feasibility_note": "4/4 core sources confirmed; strong on paper"
+    },
+    {
+      "id": "ruby-rose",
+      "name": "Ruby Rose",
+      "series": "RWBY",
+      "bucket": "genki",
+      "tier_target": "B",
+      "sources": {
+        "anilist": {
+          "status": "found",
+          "anilist_id": 126569,
+          "url": "https://anilist.co/character/126569",
+          "series": "RWBY: Hyousetsu Teikoku",
+          "match_method": "exact-name",
+          "query": "Ruby Rose"
+        },
+        "fandom": {
+          "status": "found",
+          "wiki": "rwby.fandom.com",
+          "url": "https://rwby.fandom.com/wiki/Ruby_Rose",
+          "page_title": "Ruby Rose",
+          "match_method": "exact",
+          "query": "Ruby Rose"
+        },
+        "tvtropes": {
+          "status": "found",
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/Characters/RWBY",
+          "match_method": "live-site"
+        },
+        "mal": {
+          "status": "found",
+          "mal_id": 134529,
+          "url": "https://myanimelist.net/character/134529",
+          "match_method": "MAL-search-name",
+          "name_on_page": "Rose, Ruby",
+          "query": "Ruby Rose",
+          "via": "MAL search page",
+          "series_confirmed": true,
+          "confirmed_by": {
+            "kind": "anime",
+            "id": 51381,
+            "title": "RWBY: Hyousetsu Teikoku",
+            "role": "Main"
+          }
+        },
+        "transcripts": {
+          "status": "note",
+          "note": "hunt at verification time"
+        }
+      },
+      "feasibility_note": "4/4 core sources confirmed; strong on paper"
+    },
+    {
+      "id": "orihime-inoue",
+      "name": "Orihime Inoue",
+      "series": "Bleach",
+      "bucket": "deredere",
+      "tier_target": "A",
+      "sources": {
+        "anilist": {
+          "status": "found",
+          "anilist_id": 7,
+          "url": "https://anilist.co/character/7",
+          "series": "BLEACH",
+          "match_method": "exact-name",
+          "query": "Orihime Inoue"
+        },
+        "fandom": {
+          "status": "found",
+          "wiki": "bleach.fandom.com",
+          "url": "https://bleach.fandom.com/wiki/Orihime_Inoue",
+          "page_title": "Orihime Inoue",
+          "match_method": "exact",
+          "query": "Orihime Inoue"
+        },
+        "tvtropes": {
+          "status": "found",
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/Characters/Bleach",
+          "match_method": "live-site"
+        },
+        "mal": {
+          "status": "found",
+          "mal_id": 7,
+          "url": "https://myanimelist.net/character/7",
+          "match_method": "MAL-search-name",
+          "name_on_page": "Inoue, Orihime",
+          "query": "Orihime Inoue",
+          "via": "MAL search page",
+          "series_confirmed": true,
+          "confirmed_by": {
+            "kind": "anime",
+            "id": 269,
+            "title": "Bleach",
+            "role": "Main"
+          }
+        },
+        "transcripts": {
+          "status": "note",
+          "note": "hunt at verification time"
+        }
+      },
+      "feasibility_note": "4/4 core sources confirmed; tier A gate needs quotes/reception/key_moments at verification; strong on paper"
+    },
+    {
+      "id": "hestia",
+      "name": "Hestia",
+      "series": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+      "bucket": "deredere",
+      "tier_target": "B",
+      "sources": {
+        "anilist": {
+          "status": "found",
+          "anilist_id": 87654,
+          "url": "https://anilist.co/character/87654",
+          "series": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
+          "match_method": "exact-name",
+          "query": "Hestia"
+        },
+        "fandom": {
+          "status": "found",
+          "wiki": "danmachi.fandom.com",
+          "url": "https://danmachi.fandom.com/wiki/Hestia",
+          "page_title": "Hestia",
+          "match_method": "exact",
+          "query": "Hestia"
+        },
+        "tvtropes": {
+          "status": "found",
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/Characters/IsItWrongToTryToPickUpGirlsInaDungeon",
+          "match_method": "live-site"
+        },
+        "mal": {
+          "status": "found",
+          "mal_id": 93273,
+          "url": "https://myanimelist.net/character/93273",
+          "match_method": "MAL-search-name",
+          "name_on_page": "Hestia",
+          "query": "Hestia",
+          "via": "MAL search page",
+          "series_confirmed": true,
+          "confirmed_by": {
+            "kind": "anime",
+            "id": 28121,
+            "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
+            "role": "Main"
+          },
+          "needs_series_confirm": true
+        },
+        "transcripts": {
+          "status": "note",
+          "note": "hunt at verification time"
+        }
+      },
+      "feasibility_note": "4/4 core sources confirmed; strong on paper"
+    },
+    {
+      "id": "nia-teppelin",
+      "name": "Nia Teppelin",
+      "series": "Gurren Lagann",
+      "bucket": "deredere",
+      "tier_target": "B",
+      "sources": {
+        "anilist": {
+          "status": "found",
+          "anilist_id": 2761,
+          "url": "https://anilist.co/character/2761",
+          "series": "Tengen Toppa Gurren Lagann",
+          "match_method": "exact-name",
+          "query": "Nia Teppelin"
+        },
+        "fandom": {
+          "status": "found",
+          "wiki": "gurrenlagann.fandom.com",
+          "url": "https://gurrenlagann.fandom.com/wiki/Nia_Teppelin",
+          "page_title": "Nia Teppelin",
+          "match_method": "exact",
+          "query": "Nia Teppelin"
+        },
+        "tvtropes": {
+          "status": "found",
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/Characters/TengenToppaGurrenLagann",
+          "match_method": "live-site"
+        },
+        "mal": {
+          "status": "found",
+          "mal_id": 2761,
+          "url": "https://myanimelist.net/character/2761",
+          "match_method": "MAL-search-name",
+          "name_on_page": "Teppelin, Nia",
+          "query": "Nia Teppelin",
+          "via": "MAL search page",
+          "series_confirmed": true,
+          "confirmed_by": {
+            "kind": "anime",
+            "id": 2001,
+            "title": "Tengen Toppa Gurren Lagann",
+            "role": "Main"
+          }
+        },
+        "transcripts": {
+          "status": "note",
+          "note": "hunt at verification time"
+        }
+      },
+      "feasibility_note": "4/4 core sources confirmed; strong on paper"
+    },
+    {
+      "id": "yuno-gasai",
+      "name": "Yuno Gasai",
+      "series": "Mirai Nikki",
+      "bucket": "yandere",
+      "tier_target": "A",
+      "sources": {
+        "anilist": {
+          "status": "found",
+          "anilist_id": 4963,
+          "url": "https://anilist.co/character/4963",
+          "series": "Mirai Nikki",
+          "match_method": "exact-name",
+          "query": "Yuno Gasai"
+        },
+        "fandom": {
+          "status": "found",
+          "wiki": "mirai-nikki.fandom.com",
+          "url": "https://mirai-nikki.fandom.com/wiki/Yuno_Gasai",
+          "page_title": "Yuno Gasai",
+          "match_method": "exact",
+          "query": "Yuno Gasai"
+        },
+        "tvtropes": {
+          "status": "found",
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/Characters/FutureDiary?from=Characters.MiraiNikki",
+          "match_method": "live-site"
+        },
+        "mal": {
+          "status": "found",
+          "mal_id": 4963,
+          "url": "https://myanimelist.net/character/4963",
+          "match_method": "MAL-search-name",
+          "name_on_page": "Gasai, Yuno",
+          "query": "Yuno Gasai",
+          "via": "MAL search page",
+          "series_confirmed": true,
+          "confirmed_by": {
+            "kind": "anime",
+            "id": 8460,
+            "title": "Mirai Nikki",
+            "role": "Main"
+          }
+        },
+        "transcripts": {
+          "status": "note",
+          "note": "hunt at verification time"
+        }
+      },
+      "feasibility_note": "4/4 core sources confirmed; tier A gate needs quotes/reception/key_moments at verification; strong on paper"
+    },
+    {
+      "id": "kurumi-tokisaki",
+      "name": "Kurumi Tokisaki",
+      "series": "Date A Live",
+      "bucket": "yandere",
+      "tier_target": "A",
+      "sources": {
+        "anilist": {
+          "status": "found",
+          "anilist_id": 70069,
+          "url": "https://anilist.co/character/70069",
+          "series": "Date A Live",
+          "match_method": "exact-name",
+          "query": "Kurumi Tokisaki"
+        },
+        "fandom": {
+          "status": "found",
+          "wiki": "date-a-live.fandom.com",
+          "url": "https://date-a-live.fandom.com/wiki/Kurumi_Tokisaki",
+          "page_title": "Kurumi Tokisaki",
+          "match_method": "exact",
+          "query": "Kurumi Tokisaki"
+        },
+        "tvtropes": {
+          "status": "found",
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/Characters/DateALive",
+          "match_method": "live-site"
+        },
+        "mal": {
+          "status": "found",
+          "mal_id": 70069,
+          "url": "https://myanimelist.net/character/70069",
+          "match_method": "MAL-search-name",
+          "name_on_page": "Tokisaki, Kurumi",
+          "query": "Kurumi Tokisaki",
+          "via": "MAL search page",
+          "series_confirmed": true,
+          "confirmed_by": {
+            "kind": "anime",
+            "id": 15583,
+            "title": "Date A Live",
+            "role": "Supporting"
+          }
+        },
+        "transcripts": {
+          "status": "note",
+          "note": "hunt at verification time"
+        }
+      },
+      "feasibility_note": "4/4 core sources confirmed; tier A gate needs quotes/reception/key_moments at verification; strong on paper"
+    },
+    {
+      "id": "esdeath",
+      "name": "Esdeath",
+      "series": "Akame ga Kill!",
+      "bucket": "yandere",
+      "tier_target": "B",
+      "sources": {
+        "anilist": {
+          "status": "found",
+          "anilist_id": 65239,
+          "url": "https://anilist.co/character/65239",
+          "series": "Akame ga Kill!",
+          "match_method": "exact-name",
+          "query": "Esdeath"
+        },
+        "fandom": {
+          "status": "found",
+          "wiki": "akamegakill.fandom.com",
+          "url": "https://akamegakill.fandom.com/wiki/Esdeath",
+          "page_title": "Esdeath",
+          "match_method": "exact",
+          "query": "Esdeath"
+        },
+        "tvtropes": {
+          "status": "found",
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/Characters/AkameGaKill",
+          "match_method": "live-site"
+        },
+        "mal": {
+          "status": "found",
+          "mal_id": 65239,
+          "url": "https://myanimelist.net/character/65239",
+          "match_method": "MAL-search-name",
+          "name_on_page": "Esdeath",
+          "query": "Esdeath",
+          "via": "MAL search page",
+          "series_confirmed": true,
+          "confirmed_by": {
+            "kind": "anime",
+            "id": 22199,
+            "title": "Akame ga Kill!",
+            "role": "Supporting"
+          },
+          "needs_series_confirm": true
+        },
+        "transcripts": {
+          "status": "note",
+          "note": "hunt at verification time"
+        }
+      },
+      "feasibility_note": "4/4 core sources confirmed; strong on paper"
+    },
+    {
+      "id": "erina-nakiri",
+      "name": "Erina Nakiri",
+      "series": "Food Wars! Shokugeki no Soma",
+      "bucket": "ojou-sama",
+      "tier_target": "A",
+      "sources": {
+        "anilist": {
+          "status": "found",
+          "anilist_id": 75284,
+          "url": "https://anilist.co/character/75284",
+          "series": "Shokugeki no Souma",
+          "match_method": "exact-name",
+          "query": "Erina Nakiri"
+        },
+        "fandom": {
+          "status": "found",
+          "wiki": "shokugekinosoma.fandom.com",
+          "url": "https://shokugekinosoma.fandom.com/wiki/Erina_Nakiri",
+          "page_title": "Erina Nakiri",
+          "match_method": "exact",
+          "query": "Erina Nakiri"
+        },
+        "tvtropes": {
+          "status": "found",
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/Characters/FoodWarsPolaris",
+          "match_method": "live-subpage",
+          "page": "Characters/FoodWarsPolaris"
+        },
+        "mal": {
+          "status": "found",
+          "mal_id": 75284,
+          "url": "https://myanimelist.net/character/75284",
+          "match_method": "MAL-search-name",
+          "name_on_page": "Nakiri, Erina",
+          "query": "Erina Nakiri",
+          "via": "MAL search page",
+          "series_confirmed": true,
+          "confirmed_by": {
+            "kind": "anime",
+            "id": 28171,
+            "title": "Shokugeki no Souma",
+            "role": "Main"
+          }
+        },
+        "transcripts": {
+          "status": "note",
+          "note": "hunt at verification time"
+        }
+      },
+      "feasibility_note": "4/4 core sources confirmed; tier A gate needs quotes/reception/key_moments at verification; strong on paper"
+    },
+    {
+      "id": "louise-francoise",
+      "name": "Louise Françoise",
+      "series": "The Familiar of Zero",
+      "bucket": "ojou-sama",
+      "tier_target": "B",
+      "sources": {
+        "anilist": {
+          "status": "found",
+          "anilist_id": 136,
+          "url": "https://anilist.co/character/136",
+          "series": "Zero no Tsukaima",
+          "match_method": "exact-name",
+          "query": "Louise Françoise"
+        },
+        "fandom": {
+          "status": "found",
+          "wiki": "zeronotsukaima.fandom.com",
+          "url": "https://zeronotsukaima.fandom.com/wiki/Louise_de_La_Vallière",
+          "page_title": "Louise de La Vallière",
+          "match_method": "top-search-hit",
+          "query": "Louise Françoise"
+        },
+        "tvtropes": {
+          "status": "found",
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/Characters/TheFamiliarOfZero",
+          "match_method": "live-site"
+        },
+        "mal": {
+          "status": "mismatch",
+          "mal_id": 17322,
+          "url": "https://myanimelist.net/character/17322",
+          "match_method": "MAL-search-name",
+          "name_on_page": "Louise",
+          "query": "Louise",
+          "via": "MAL search page",
+          "series_confirmed": false,
+          "needs_series_confirm": true,
+          "mismatch_detail": "page lists: Red Garden: Dead Girls (Supporting)"
+        },
+        "transcripts": {
+          "status": "note",
+          "note": "hunt at verification time"
+        }
+      },
+      "feasibility_note": "3/4 core sources confirmed; mismatched: mal: page lists: Red Garden: Dead Girls (Supporting); strong on paper"
+    },
+    {
+      "id": "kaguya-shinomiya",
+      "name": "Kaguya Shinomiya",
+      "series": "Kaguya-sama: Love Is War",
+      "bucket": "ojou-sama",
+      "tier_target": "A",
+      "sources": {
+        "anilist": {
+          "status": "found",
+          "anilist_id": 120649,
+          "url": "https://anilist.co/character/120649",
+          "series": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+          "match_method": "exact-name",
+          "query": "Kaguya Shinomiya"
+        },
+        "fandom": {
+          "status": "found",
+          "wiki": "kaguyasama-wa-kokurasetai.fandom.com",
+          "url": "https://kaguyasama-wa-kokurasetai.fandom.com/wiki/Kaguya_Shinomiya",
+          "page_title": "Kaguya Shinomiya",
+          "match_method": "exact",
+          "query": "Kaguya Shinomiya"
+        },
+        "tvtropes": {
+          "status": "found",
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/Characters/KaguyaSamaLoveIsWar",
+          "match_method": "live-site"
+        },
+        "mal": {
+          "status": "found",
+          "mal_id": 136359,
+          "url": "https://myanimelist.net/character/136359",
+          "match_method": "MAL-search-name",
+          "name_on_page": "Shinomiya, Kaguya",
+          "query": "Kaguya Shinomiya",
+          "via": "MAL search page",
+          "series_confirmed": true,
+          "confirmed_by": {
+            "kind": "anime",
+            "id": 37999,
+            "title": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+            "role": "Main"
+          }
+        },
+        "transcripts": {
+          "status": "note",
+          "note": "hunt at verification time"
+        }
+      },
+      "feasibility_note": "4/4 core sources confirmed; tier A gate needs quotes/reception/key_moments at verification; strong on paper"
+    },
+    {
+      "id": "rias-gremory",
+      "name": "Rias Gremory",
+      "series": "High School DxD",
+      "bucket": "onee-san",
+      "tier_target": "A",
+      "sources": {
+        "anilist": {
+          "status": "found",
+          "anilist_id": 50389,
+          "url": "https://anilist.co/character/50389",
+          "series": "High School DxD",
+          "match_method": "exact-name",
+          "query": "Rias Gremory"
+        },
+        "fandom": {
+          "status": "found",
+          "wiki": "highschooldxd.fandom.com",
+          "url": "https://highschooldxd.fandom.com/wiki/Rias_Gremory",
+          "page_title": "Rias Gremory",
+          "match_method": "exact",
+          "query": "Rias Gremory"
+        },
+        "tvtropes": {
+          "status": "found",
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/Characters/HighSchoolDxd",
+          "match_method": "live-site"
+        },
+        "mal": {
+          "status": "found",
+          "mal_id": 50389,
+          "url": "https://myanimelist.net/character/50389",
+          "match_method": "MAL-search-name",
+          "name_on_page": "Gremory, Rias",
+          "query": "Rias Gremory",
+          "via": "MAL search page",
+          "series_confirmed": true,
+          "confirmed_by": {
+            "kind": "anime",
+            "id": 11617,
+            "title": "High School DxD",
+            "role": "Main"
+          }
+        },
+        "transcripts": {
+          "status": "note",
+          "note": "hunt at verification time"
+        }
+      },
+      "feasibility_note": "4/4 core sources confirmed; tier A gate needs quotes/reception/key_moments at verification; strong on paper"
+    },
+    {
+      "id": "yoruichi-shihoin",
+      "name": "Yoruichi Shihoin",
+      "series": "Bleach",
+      "bucket": "onee-san",
+      "tier_target": "B",
+      "sources": {
+        "anilist": {
+          "status": "found",
+          "anilist_id": 908,
+          "url": "https://anilist.co/character/908",
+          "series": "BLEACH",
+          "match_method": "exact-name",
+          "query": "Yoruichi Shihouin"
+        },
+        "fandom": {
+          "status": "found",
+          "wiki": "bleach.fandom.com",
+          "url": "https://bleach.fandom.com/wiki/Yoruichi_Shihōin",
+          "page_title": "Yoruichi Shihōin",
+          "match_method": "exact",
+          "query": "Yoruichi Shihoin"
+        },
+        "tvtropes": {
+          "status": "found",
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/Characters/Bleach",
+          "match_method": "live-site"
+        },
+        "mal": {
+          "status": "found",
+          "mal_id": 908,
+          "url": "https://myanimelist.net/character/908",
+          "match_method": "MAL-search-name",
+          "name_on_page": "Shihouin, Yoruichi",
+          "query": "Yoruichi Shihouin",
+          "via": "MAL search page",
+          "series_confirmed": true,
+          "confirmed_by": {
+            "kind": "anime",
+            "id": 269,
+            "title": "Bleach",
+            "role": "Supporting"
+          }
+        },
+        "transcripts": {
+          "status": "note",
+          "note": "hunt at verification time"
+        }
+      },
+      "feasibility_note": "4/4 core sources confirmed; strong on paper"
+    },
+    {
+      "id": "ryuu-lion",
+      "name": "Ryuu Lion",
+      "series": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+      "bucket": "onee-san",
+      "tier_target": "B",
+      "sources": {
+        "anilist": {
+          "status": "found",
+          "anilist_id": 88890,
+          "url": "https://anilist.co/character/88890",
+          "series": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
+          "match_method": "exact-name",
+          "query": "Ryuu Lion"
+        },
+        "fandom": {
+          "status": "found",
+          "wiki": "danmachi.fandom.com",
+          "url": "https://danmachi.fandom.com/wiki/Ryuu_Lion",
+          "page_title": "Ryuu Lion",
+          "match_method": "exact",
+          "query": "Ryuu Lion"
+        },
+        "tvtropes": {
+          "status": "found",
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/Characters/IsItWrongToTryToPickUpGirlsInADungeonHestiaFamilia",
+          "match_method": "live-subpage",
+          "page": "Characters/IsItWrongToTryToPickUpGirlsInADungeonHestiaFamilia"
+        },
+        "mal": {
+          "status": "found",
+          "mal_id": 116183,
+          "url": "https://myanimelist.net/character/116183",
+          "match_method": "MAL-search-name",
+          "name_on_page": "Lion, Ryuu",
+          "query": "Ryuu Lion",
+          "via": "MAL search page",
+          "series_confirmed": true,
+          "confirmed_by": {
+            "kind": "anime",
+            "id": 28121,
+            "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
+            "role": "Supporting"
+          }
+        },
+        "transcripts": {
+          "status": "note",
+          "note": "hunt at verification time"
+        }
+      },
+      "feasibility_note": "4/4 core sources confirmed; strong on paper"
+    },
+    {
+      "id": "saber-artoria",
+      "name": "Saber",
+      "series": "Fate/stay night",
+      "bucket": "cool-beauty",
+      "tier_target": "A",
+      "sources": {
+        "anilist": {
+          "status": "found",
+          "anilist_id": 497,
+          "url": "https://anilist.co/character/497",
+          "series": "Fate/Zero",
+          "match_method": "exact-name",
+          "query": "Saber"
+        },
+        "fandom": {
+          "status": "found",
+          "wiki": "typemoon.fandom.com",
+          "url": "https://typemoon.fandom.com/wiki/Saber",
+          "page_title": "Saber",
+          "match_method": "exact",
+          "query": "Saber"
+        },
+        "tvtropes": {
+          "status": "found",
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/Characters/FateStayNight",
+          "match_method": "live-site"
+        },
+        "mal": {
+          "status": "found",
+          "mal_id": 51523,
+          "url": "https://myanimelist.net/character/51523",
+          "match_method": "MAL-search-name",
+          "name_on_page": "Saber",
+          "query": "Saber",
+          "via": "MAL search page",
+          "series_confirmed": true,
+          "confirmed_by": {
+            "kind": "anime",
+            "id": 33047,
+            "title": "Fate/Extra: Last Encore",
+            "role": "Main"
+          },
+          "needs_series_confirm": true
+        },
+        "transcripts": {
+          "status": "note",
+          "note": "hunt at verification time"
+        }
+      },
+      "feasibility_note": "4/4 core sources confirmed; tier A gate needs quotes/reception/key_moments at verification; strong on paper"
+    },
+    {
+      "id": "mikasa-ackerman",
+      "name": "Mikasa Ackerman",
+      "series": "Attack on Titan",
+      "bucket": "cool-beauty",
+      "tier_target": "B",
+      "sources": {
+        "anilist": {
+          "status": "found",
+          "anilist_id": 40881,
+          "url": "https://anilist.co/character/40881",
+          "series": "Shingeki no Kyojin",
+          "match_method": "exact-name",
+          "query": "Mikasa Ackerman"
+        },
+        "fandom": {
+          "status": "found",
+          "wiki": "attackontitan.fandom.com",
+          "url": "https://attackontitan.fandom.com/wiki/Mikasa_Ackerman",
+          "page_title": "Mikasa Ackerman",
+          "match_method": "exact",
+          "query": "Mikasa Ackerman"
+        },
+        "tvtropes": {
+          "status": "found",
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/Characters/AttackOnTitan",
+          "match_method": "live-site"
+        },
+        "mal": {
+          "status": "found",
+          "mal_id": 40881,
+          "url": "https://myanimelist.net/character/40881",
+          "match_method": "MAL-search-name",
+          "name_on_page": "Ackerman, Mikasa",
+          "query": "Mikasa Ackerman",
+          "via": "MAL search page",
+          "series_confirmed": true,
+          "confirmed_by": {
+            "kind": "anime",
+            "id": 16498,
+            "title": "Shingeki no Kyojin",
+            "role": "Main"
+          }
+        },
+        "transcripts": {
+          "status": "note",
+          "note": "hunt at verification time"
+        }
+      },
+      "feasibility_note": "4/4 core sources confirmed; strong on paper"
+    },
+    {
+      "id": "erza-scarlet",
+      "name": "Erza Scarlet",
+      "series": "Fairy Tail",
+      "bucket": "cool-beauty",
+      "tier_target": "B",
+      "sources": {
+        "anilist": {
+          "status": "found",
+          "anilist_id": 5189,
+          "url": "https://anilist.co/character/5189",
+          "series": "FAIRY TAIL",
+          "match_method": "exact-name",
+          "query": "Erza Scarlet"
+        },
+        "fandom": {
+          "status": "found",
+          "wiki": "fairytail.fandom.com",
+          "url": "https://fairytail.fandom.com/wiki/Erza_Scarlet",
+          "page_title": "Erza Scarlet",
+          "match_method": "exact",
+          "query": "Erza Scarlet"
+        },
+        "tvtropes": {
+          "status": "found",
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/Characters/FairyTail",
+          "match_method": "live-site"
+        },
+        "mal": {
+          "status": "found",
+          "mal_id": 5189,
+          "url": "https://myanimelist.net/character/5189",
+          "match_method": "MAL-search-name",
+          "name_on_page": "Scarlet, Erza",
+          "query": "Erza Scarlet",
+          "via": "MAL search page",
+          "series_confirmed": true,
+          "confirmed_by": {
+            "kind": "anime",
+            "id": 6702,
+            "title": "Fairy Tail",
+            "role": "Main"
+          }
+        },
+        "transcripts": {
+          "status": "note",
+          "note": "hunt at verification time"
+        }
+      },
+      "feasibility_note": "4/4 core sources confirmed; strong on paper"
+    },
+    {
+      "id": "rikka-takanashi",
+      "name": "Rikka Takanashi",
+      "series": "Love, Chunibyo & Other Delusions",
+      "bucket": "chuunibyou",
+      "tier_target": "A",
+      "sources": {
+        "anilist": {
+          "status": "found",
+          "anilist_id": 65865,
+          "url": "https://anilist.co/character/65865",
+          "series": "Chuunibyou demo Koi ga Shitai!",
+          "match_method": "exact-name",
+          "query": "Rikka Takanashi"
+        },
+        "fandom": {
+          "status": "found",
+          "wiki": "chunibyo.fandom.com",
+          "url": "https://chunibyo.fandom.com/wiki/Rikka_Takanashi",
+          "page_title": "Rikka Takanashi",
+          "match_method": "exact",
+          "query": "Rikka Takanashi"
+        },
+        "tvtropes": {
+          "status": "found",
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/Characters/LoveChunibyoAndOtherDelusions",
+          "match_method": "live-site"
+        },
+        "mal": {
+          "status": "found",
+          "mal_id": 65865,
+          "url": "https://myanimelist.net/character/65865",
+          "match_method": "MAL-search-name",
+          "name_on_page": "Takanashi, Rikka",
+          "query": "Rikka Takanashi",
+          "via": "MAL search page",
+          "series_confirmed": true,
+          "confirmed_by": {
+            "kind": "anime",
+            "id": 14741,
+            "title": "Chuunibyou demo Koi ga Shitai!",
+            "role": "Main"
+          }
+        },
+        "transcripts": {
+          "status": "note",
+          "note": "hunt at verification time"
+        }
+      },
+      "feasibility_note": "4/4 core sources confirmed; tier A gate needs quotes/reception/key_moments at verification; strong on paper"
+    },
+    {
+      "id": "megumin",
+      "name": "Megumin",
+      "series": "KonoSuba",
+      "bucket": "chuunibyou",
+      "tier_target": "B",
+      "sources": {
+        "anilist": {
+          "status": "found",
+          "anilist_id": 89361,
+          "url": "https://anilist.co/character/89361",
+          "series": "Kono Subarashii Sekai ni Shukufuku wo!",
+          "match_method": "exact-name",
+          "query": "Megumin"
+        },
+        "fandom": {
+          "status": "found",
+          "wiki": "konosuba.fandom.com",
+          "url": "https://konosuba.fandom.com/wiki/Megumin",
+          "page_title": "Megumin",
+          "match_method": "exact",
+          "query": "Megumin"
+        },
+        "tvtropes": {
+          "status": "found",
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/Characters/Konosuba",
+          "match_method": "live-site"
+        },
+        "mal": {
+          "status": "found",
+          "mal_id": 117225,
+          "url": "https://myanimelist.net/character/117225",
+          "match_method": "MAL-search-name",
+          "name_on_page": "Megumin",
+          "query": "Megumin",
+          "via": "MAL search page",
+          "series_confirmed": true,
+          "confirmed_by": {
+            "kind": "anime",
+            "id": 30831,
+            "title": "Kono Subarashii Sekai ni Shukufuku wo!",
+            "role": "Main"
+          },
+          "needs_series_confirm": true
+        },
+        "transcripts": {
+          "status": "note",
+          "note": "hunt at verification time"
+        }
+      },
+      "feasibility_note": "4/4 core sources confirmed; strong on paper"
+    },
+    {
+      "id": "sanae-dekomori",
+      "name": "Sanae Dekomori",
+      "series": "Love, Chunibyo & Other Delusions",
+      "bucket": "chuunibyou",
+      "tier_target": "B",
+      "sources": {
+        "anilist": {
+          "status": "found",
+          "anilist_id": 67215,
+          "url": "https://anilist.co/character/67215",
+          "series": "Chuunibyou demo Koi ga Shitai!",
+          "match_method": "exact-name",
+          "query": "Sanae Dekomori"
+        },
+        "fandom": {
+          "status": "found",
+          "wiki": "chunibyo.fandom.com",
+          "url": "https://chunibyo.fandom.com/wiki/Sanae_Dekomori",
+          "page_title": "Sanae Dekomori",
+          "match_method": "exact",
+          "query": "Sanae Dekomori"
+        },
+        "tvtropes": {
+          "status": "found",
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/Characters/LoveChunibyoAndOtherDelusions",
+          "match_method": "live-site"
+        },
+        "mal": {
+          "status": "found",
+          "mal_id": 67215,
+          "url": "https://myanimelist.net/character/67215",
+          "match_method": "MAL-search-name",
+          "name_on_page": "Dekomori, Sanae",
+          "query": "Sanae Dekomori",
+          "via": "MAL search page",
+          "series_confirmed": true,
+          "confirmed_by": {
+            "kind": "anime",
+            "id": 14741,
+            "title": "Chuunibyou demo Koi ga Shitai!",
+            "role": "Main"
+          }
+        },
+        "transcripts": {
+          "status": "note",
+          "note": "hunt at verification time"
+        }
+      },
+      "feasibility_note": "4/4 core sources confirmed; strong on paper"
+    },
+    {
+      "id": "ai-hoshino",
+      "name": "Ai Hoshino",
+      "series": "Oshi no Ko",
+      "bucket": "idol-performer",
+      "tier_target": "A",
+      "sources": {
+        "anilist": {
+          "status": "found",
+          "anilist_id": 172759,
+          "url": "https://anilist.co/character/172759",
+          "series": "[Oshi no Ko]",
+          "match_method": "exact-name",
+          "query": "Ai Hoshino"
+        },
+        "fandom": {
+          "status": "found",
+          "wiki": "oshinoko.fandom.com",
+          "url": "https://oshinoko.fandom.com/wiki/Ai_Hoshino",
+          "page_title": "Ai Hoshino",
+          "match_method": "exact",
+          "query": "Ai Hoshino"
+        },
+        "tvtropes": {
+          "status": "found",
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/Characters/OshiNoKo",
+          "match_method": "live-site"
+        },
+        "mal": {
+          "status": "found",
+          "mal_id": 188037,
+          "url": "https://myanimelist.net/character/188037",
+          "match_method": "MAL-search-name",
+          "name_on_page": "Hoshino, Ai",
+          "query": "Ai Hoshino",
+          "via": "MAL search page",
+          "series_confirmed": true,
+          "confirmed_by": {
+            "kind": "anime",
+            "id": 52034,
+            "title": "[Oshi no Ko]",
+            "role": "Main"
+          }
+        },
+        "transcripts": {
+          "status": "note",
+          "note": "hunt at verification time"
+        }
+      },
+      "feasibility_note": "4/4 core sources confirmed; tier A gate needs quotes/reception/key_moments at verification; strong on paper"
+    },
+    {
+      "id": "chika-takami",
+      "name": "Chika Takami",
+      "series": "Love Live! Sunshine!!",
+      "bucket": "idol-performer",
+      "tier_target": "B",
+      "sources": {
+        "anilist": {
+          "status": "found",
+          "anilist_id": 89844,
+          "url": "https://anilist.co/character/89844",
+          "series": "Love Live! Sunshine!!",
+          "match_method": "exact-name",
+          "query": "Chika Takami"
+        },
+        "fandom": {
+          "status": "found",
+          "wiki": "love-live.fandom.com",
+          "url": "https://love-live.fandom.com/wiki/Chika_Takami",
+          "page_title": "Chika Takami",
+          "match_method": "exact",
+          "query": "Chika Takami"
+        },
+        "tvtropes": {
+          "status": "found",
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/Characters/LoveLiveSunshine",
+          "match_method": "live-site"
+        },
+        "mal": {
+          "status": "found",
+          "mal_id": 134090,
+          "url": "https://myanimelist.net/character/134090",
+          "match_method": "MAL-search-name",
+          "name_on_page": "Takami, Chika",
+          "query": "Chika Takami",
+          "via": "MAL search page",
+          "series_confirmed": true,
+          "confirmed_by": {
+            "kind": "anime",
+            "id": 32526,
+            "title": "Love Live! Sunshine!!",
+            "role": "Main"
+          }
+        },
+        "transcripts": {
+          "status": "note",
+          "note": "hunt at verification time"
+        }
+      },
+      "feasibility_note": "4/4 core sources confirmed; strong on paper"
+    },
+    {
+      "id": "miki-hoshii",
+      "name": "Miki Hoshii",
+      "series": "THE iDOLM@STER",
+      "bucket": "idol-performer",
+      "tier_target": "B",
+      "sources": {
+        "anilist": {
+          "status": "found",
+          "anilist_id": 10366,
+          "url": "https://anilist.co/character/10366",
+          "series": "THE IDOLM@STER",
+          "match_method": "exact-name",
+          "query": "Miki Hoshii"
+        },
+        "fandom": {
+          "status": "found",
+          "wiki": "idolmaster.fandom.com",
+          "url": "https://idolmaster.fandom.com/wiki/Miki_Hoshii",
+          "page_title": "Miki Hoshii",
+          "match_method": "exact",
+          "query": "Miki Hoshii"
+        },
+        "tvtropes": {
+          "status": "found",
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/Characters/TheIdolmaster",
+          "match_method": "live-site"
+        },
+        "mal": {
+          "status": "found",
+          "mal_id": 10366,
+          "url": "https://myanimelist.net/character/10366",
+          "match_method": "MAL-search-name",
+          "name_on_page": "Hoshii, Miki",
+          "query": "Miki Hoshii",
+          "via": "MAL search page",
+          "series_confirmed": true,
+          "confirmed_by": {
+            "kind": "anime",
+            "id": 4033,
+            "title": "The iDOLM@STER Live For You!",
+            "role": "Main"
+          }
+        },
+        "transcripts": {
+          "status": "note",
+          "note": "hunt at verification time"
+        }
+      },
+      "feasibility_note": "4/4 core sources confirmed; strong on paper"
+    },
+    {
+      "id": "historia-reiss",
+      "name": "Historia Reiss",
+      "series": "Attack on Titan",
+      "bucket": "two-faced",
+      "tier_target": "A",
+      "sources": {
+        "anilist": {
+          "status": "found",
+          "anilist_id": 62481,
+          "url": "https://anilist.co/character/62481",
+          "series": "Shingeki no Kyojin",
+          "match_method": "exact-name",
+          "query": "Krista Lenz"
+        },
+        "fandom": {
+          "status": "found",
+          "wiki": "attackontitan.fandom.com",
+          "url": "https://attackontitan.fandom.com/wiki/Historia_Reiss",
+          "page_title": "Historia Reiss",
+          "match_method": "exact",
+          "query": "Historia Reiss"
+        },
+        "tvtropes": {
+          "status": "found",
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/Characters/AttackOnTitan",
+          "match_method": "live-site"
+        },
+        "mal": {
+          "status": "found",
+          "mal_id": 62481,
+          "url": "https://myanimelist.net/character/62481",
+          "match_method": "MAL-search-name",
+          "name_on_page": "Lenz, Krista",
+          "query": "Krista Lenz",
+          "via": "MAL search page",
+          "series_confirmed": true,
+          "confirmed_by": {
+            "kind": "anime",
+            "id": 16498,
+            "title": "Shingeki no Kyojin",
+            "role": "Supporting"
+          }
+        },
+        "transcripts": {
+          "status": "note",
+          "note": "hunt at verification time"
+        }
+      },
+      "feasibility_note": "4/4 core sources confirmed; tier A gate needs quotes/reception/key_moments at verification; strong on paper"
+    },
+    {
+      "id": "kuroneko",
+      "name": "Kuroneko",
+      "series": "Oreimo",
+      "bucket": "two-faced",
+      "tier_target": "B",
+      "sources": {
+        "anilist": {
+          "status": "found",
+          "anilist_id": 31008,
+          "url": "https://anilist.co/character/31008",
+          "series": "Eromanga Sensei",
+          "match_method": "exact-name",
+          "query": "Kuroneko"
+        },
+        "fandom": {
+          "status": "found",
+          "wiki": "oreimo.fandom.com",
+          "url": "https://oreimo.fandom.com/wiki/Ruri_Gokou",
+          "page_title": "Ruri Gokou",
+          "match_method": "exact",
+          "query": "Kuroneko"
+        },
+        "tvtropes": {
+          "status": "found",
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/Characters/Oreimo",
+          "match_method": "live-site"
+        },
+        "mal": {
+          "status": "mismatch",
+          "mal_id": 6750,
+          "url": "https://myanimelist.net/character/6750",
+          "match_method": "MAL-search-name",
+          "name_on_page": "Kuroneko",
+          "query": "Kuroneko",
+          "via": "MAL search page",
+          "series_confirmed": false,
+          "needs_series_confirm": true,
+          "mismatch_detail": "page lists: Trigun (Supporting); Trigun: Badlands Rumble (Supporting); Trigun Maximum (Supporting); Trigun: Multiple Bullets (Supporting)"
+        },
+        "transcripts": {
+          "status": "note",
+          "note": "hunt at verification time"
+        }
+      },
+      "feasibility_note": "3/4 core sources confirmed; mismatched: mal: page lists: Trigun (Supporting); Trigun: Badlands Rumble (Supporting); Trigun Maximum (Supporting); Trigun: Multiple Bullets (Supporting); strong on paper"
+    },
+    {
+      "id": "nadeko-sengoku",
+      "name": "Nadeko Sengoku",
+      "series": "Monogatari",
+      "bucket": "two-faced",
+      "tier_target": "B",
+      "sources": {
+        "anilist": {
+          "status": "found",
+          "anilist_id": 22050,
+          "url": "https://anilist.co/character/22050",
+          "series": "Bakemonogatari",
+          "match_method": "exact-name",
+          "query": "Nadeko Sengoku"
+        },
+        "fandom": {
+          "status": "found",
+          "wiki": "bakemonogatari.fandom.com",
+          "url": "https://bakemonogatari.fandom.com/wiki/Nadeko_Sengoku",
+          "page_title": "Nadeko Sengoku",
+          "match_method": "exact",
+          "query": "Nadeko Sengoku"
+        },
+        "tvtropes": {
+          "status": "found",
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/Characters/Bakemonogatari",
+          "match_method": "live-site"
+        },
+        "mal": {
+          "status": "found",
+          "mal_id": 22050,
+          "url": "https://myanimelist.net/character/22050",
+          "match_method": "MAL-search-name",
+          "name_on_page": "Sengoku, Nadeko",
+          "query": "Nadeko Sengoku",
+          "via": "MAL search page",
+          "series_confirmed": true,
+          "confirmed_by": {
+            "kind": "anime",
+            "id": 5081,
+            "title": "Bakemonogatari",
+            "role": "Main"
+          }
+        },
+        "transcripts": {
+          "status": "note",
+          "note": "hunt at verification time"
+        }
+      },
+      "feasibility_note": "4/4 core sources confirmed; strong on paper"
+    },
+    {
+      "id": "holo",
+      "name": "Holo",
+      "series": "Spice and Wolf",
+      "bucket": "otherworldly",
+      "tier_target": "A",
+      "sources": {
+        "anilist": {
+          "status": "found",
+          "anilist_id": 7373,
+          "url": "https://anilist.co/character/7373",
+          "series": "Eromanga Sensei",
+          "match_method": "exact-name",
+          "query": "Holo"
+        },
+        "fandom": {
+          "status": "found",
+          "wiki": "spice-and-wolf.fandom.com",
+          "url": "https://spice-and-wolf.fandom.com/wiki/Holo",
+          "page_title": "Holo",
+          "match_method": "exact",
+          "query": "Holo"
+        },
+        "tvtropes": {
+          "status": "found",
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/Characters/SpiceAndWolf",
+          "match_method": "live-site"
+        },
+        "mal": {
+          "status": "found",
+          "mal_id": 7373,
+          "url": "https://myanimelist.net/character/7373",
+          "match_method": "MAL-search-name",
+          "name_on_page": "Holo",
+          "query": "Holo",
+          "via": "MAL search page",
+          "series_confirmed": true,
+          "confirmed_by": {
+            "kind": "anime",
+            "id": 2966,
+            "title": "Ookami to Koushinryou",
+            "role": "Main"
+          },
+          "needs_series_confirm": true
+        },
+        "transcripts": {
+          "status": "note",
+          "note": "hunt at verification time"
+        }
+      },
+      "feasibility_note": "4/4 core sources confirmed; tier A gate needs quotes/reception/key_moments at verification; strong on paper"
+    },
+    {
+      "id": "rem-rezero",
+      "name": "Rem",
+      "series": "Re:Zero - Starting Life in Another World",
+      "bucket": "otherworldly",
+      "tier_target": "B",
+      "sources": {
+        "anilist": {
+          "status": "found",
+          "anilist_id": 88575,
+          "url": "https://anilist.co/character/88575",
+          "series": "Re:Zero kara Hajimeru Isekai Seikatsu",
+          "match_method": "exact-name",
+          "query": "Rem"
+        },
+        "fandom": {
+          "status": "found",
+          "wiki": "rezero.fandom.com",
+          "url": "https://rezero.fandom.com/wiki/Rem",
+          "page_title": "Rem",
+          "match_method": "exact",
+          "query": "Rem"
+        },
+        "tvtropes": {
+          "status": "found",
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/Characters/ReZero",
+          "match_method": "live-site"
+        },
+        "mal": {
+          "status": "mismatch",
+          "mal_id": 1905,
+          "url": "https://myanimelist.net/character/1905",
+          "match_method": "MAL-search-name",
+          "name_on_page": "Rem",
+          "query": "Rem",
+          "via": "MAL search page",
+          "series_confirmed": false,
+          "needs_series_confirm": true,
+          "mismatch_detail": "page lists: Death Note (Supporting); Death Note: Rewrite (Supporting)"
+        },
+        "transcripts": {
+          "status": "note",
+          "note": "hunt at verification time"
+        }
+      },
+      "feasibility_note": "3/4 core sources confirmed; mismatched: mal: page lists: Death Note (Supporting); Death Note: Rewrite (Supporting); strong on paper"
+    },
+    {
+      "id": "albedo-overlord",
+      "name": "Albedo",
+      "series": "Overlord",
+      "bucket": "otherworldly",
+      "tier_target": "B",
+      "sources": {
+        "anilist": {
+          "status": "found",
+          "anilist_id": 89122,
+          "url": "https://anilist.co/character/89122",
+          "series": "Overlord",
+          "match_method": "exact-name",
+          "query": "Albedo"
+        },
+        "fandom": {
+          "status": "found",
+          "wiki": "overlord.fandom.com",
+          "url": "https://overlord.fandom.com/wiki/Albedo",
+          "page_title": "Albedo",
+          "match_method": "exact",
+          "query": "Albedo"
+        },
+        "tvtropes": {
+          "status": "found",
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/Characters/Overlord2012NazarickNPCs",
+          "match_method": "live-site"
+        },
+        "mal": {
+          "status": "found",
+          "mal_id": 116275,
+          "url": "https://myanimelist.net/character/116275",
+          "match_method": "MAL-search-name",
+          "name_on_page": "Albedo",
+          "query": "Albedo",
+          "via": "MAL search page",
+          "series_confirmed": true,
+          "confirmed_by": {
+            "kind": "anime",
+            "id": 29803,
+            "title": "Overlord",
+            "role": "Supporting"
+          },
+          "needs_series_confirm": true
+        },
+        "transcripts": {
+          "status": "note",
+          "note": "hunt at verification time"
+        }
+      },
+      "feasibility_note": "4/4 core sources confirmed; strong on paper"
+    }
+  ]
+}
