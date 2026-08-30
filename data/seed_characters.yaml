@@ -1,0 +1,331 @@
+# Seed waifu list — 39 characters across 13 archetype buckets (bot-plan.md).
+# tier_target: A = locked demo set (Decision 6: bucket rep per bucket + Kaguya/Kurumi
+# cross-bucket), B = everything else.
+# fandom_wiki: best-known Fandom domain. The inventory script validates it via the
+# MediaWiki API and records wrong guesses, so a blank entry only means "discover at
+# verification time".
+# search_names: extra aliases/qualifiers tried for ambiguous names.
+# series_kw: keywords used to match the character against its series in API results.
+# transcript_note: static note, set to "hunt at verification time" unless known.
+
+- id: taiga-aisaka
+  name: Taiga Aisaka
+  series: Toradora!
+  bucket: tsundere
+  tier_target: A
+  fandom_wiki: tora-dora.fandom.com
+  transcript_note: "springfieldspringfield.co.uk episode transcripts (proven in pilot): https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=toradora-2008"
+
+- id: asuka-langley
+  name: Asuka Langley
+  series: Neon Genesis Evangelion
+  bucket: tsundere
+  tier_target: B
+  search_names: ["Asuka Langley", "Asuka Langley Soryu"]
+  series_kw: ["neon genesis evangelion", "evangelion"]  # MAL title: Shinseiki Evangelion
+  fandom_wiki: evangelion.fandom.com
+
+- id: rin-tohsaka
+  name: Rin Tohsaka
+  series: Fate/stay night
+  bucket: tsundere
+  tier_target: B
+  # MAL romanizes the surname as "Toosaka" (character/498); the MAL search only
+  # matches that form, not "Tohsaka". Kept within the 3-name query budget.
+  search_names: ["Rin Toosaka", "Tohsaka Rin"]
+  series_kw: ["fate"]
+  fandom_wiki: typemoon.fandom.com
+
+- id: rei-ayanami
+  name: Rei Ayanami
+  series: Neon Genesis Evangelion
+  bucket: kuudere
+  tier_target: A
+  search_names: ["Rei Ayanami", "Ayanami Rei"]
+  series_kw: ["neon genesis evangelion", "evangelion"]  # MAL title: Shinseiki Evangelion
+  fandom_wiki: evangelion.fandom.com
+
+- id: yuki-nagato
+  name: Yuki Nagato
+  series: The Melancholy of Haruhi Suzumiya
+  bucket: kuudere
+  tier_target: B
+  series_kw: ["the melancholy of haruhi suzumiya", "suzumiya haruhi"]  # MAL title: Suzumiya Haruhi no Yuuutsu
+  fandom_wiki: haruhi.fandom.com
+
+- id: shiro-ngnl
+  name: Shiro
+  series: No Game No Life
+  bucket: kuudere
+  tier_target: B
+  series_kw: ["no game no life", "ngnl"]
+  fandom_wiki: no-game-no-life.fandom.com
+
+- id: hinata-hyuga
+  name: Hinata Hyuga
+  series: Naruto
+  bucket: dandere
+  tier_target: A
+  search_names: ["Hinata Hyuga", "Hinata Hyuuga"]
+  fandom_wiki: naruto.fandom.com
+
+- id: komi-shouko
+  name: Shouko Komi
+  series: Komi Can't Communicate
+  bucket: dandere
+  tier_target: B
+  search_names: ["Shouko Komi", "Komi Shouko", "Komisan"]
+  series_kw: ["komi can't communicate", "komi san"]  # MAL title: Komi-san wa, Comyushou desu.
+  fandom_wiki: komisan.fandom.com
+
+- id: sawako-kuronuma
+  name: Sawako Kuronuma
+  series: Kimi ni Todoke
+  bucket: dandere
+  tier_target: B
+  fandom_wiki: kiminitodoke.fandom.com
+
+- id: yui-hirasawa
+  name: Yui Hirasawa
+  series: K-On!
+  bucket: genki
+  tier_target: A
+  fandom_wiki: k-on.fandom.com
+
+- id: konata-izumi
+  name: Konata Izumi
+  series: Lucky Star
+  bucket: genki
+  tier_target: B
+  fandom_wiki: luckystar.fandom.com
+
+- id: ruby-rose
+  name: Ruby Rose
+  series: RWBY
+  bucket: genki
+  tier_target: B
+  fandom_wiki: rwby.fandom.com
+
+- id: orihime-inoue
+  name: Orihime Inoue
+  series: Bleach
+  bucket: deredere
+  tier_target: A
+  fandom_wiki: bleach.fandom.com
+
+- id: hestia
+  name: Hestia
+  series: Is It Wrong to Try to Pick Up Girls in a Dungeon?
+  bucket: deredere
+  tier_target: B
+  series_kw: ["danmachi", "is it wrong", "dungeon ni deai"]  # last: MAL romanji title
+  fandom_wiki: danmachi.fandom.com
+
+- id: nia-teppelin
+  name: Nia Teppelin
+  series: Gurren Lagann
+  bucket: deredere
+  tier_target: B
+  series_kw: ["gurren lagann", "tengen toppa"]
+  fandom_wiki: gurrenlagann.fandom.com
+
+- id: yuno-gasai
+  name: Yuno Gasai
+  series: Mirai Nikki
+  bucket: yandere
+  tier_target: A
+  search_names: ["Yuno Gasai", "Gasai Yuno"]
+  series_kw: ["mirai nikki", "future diary"]
+  fandom_wiki: mirai-nikki.fandom.com
+
+- id: kurumi-tokisaki
+  name: Kurumi Tokisaki
+  series: Date A Live
+  bucket: yandere
+  tier_target: A
+  fandom_wiki: date-a-live.fandom.com
+
+- id: esdeath
+  name: Esdeath
+  series: Akame ga Kill!
+  bucket: yandere
+  tier_target: B
+  fandom_wiki: akamegakill.fandom.com
+
+- id: erina-nakiri
+  name: Erina Nakiri
+  series: Food Wars! Shokugeki no Soma
+  bucket: ojou-sama
+  tier_target: A
+  series_kw: ["food wars", "shokugeki"]
+  fandom_wiki: shokugekinosoma.fandom.com
+
+- id: louise-francoise
+  name: Louise Françoise
+  series: The Familiar of Zero
+  bucket: ojou-sama
+  tier_target: B
+  search_names: ["Louise", "Louise Françoise", "Louise Françoise Le Blanc de La Vallière"]
+  series_kw: ["zero no tsukaima", "familiar of zero"]
+  fandom_wiki: zeronotsukaima.fandom.com
+
+- id: kaguya-shinomiya
+  name: Kaguya Shinomiya
+  series: "Kaguya-sama: Love Is War"
+  bucket: ojou-sama
+  tier_target: A
+  search_names: ["Kaguya Shinomiya", "Shinomiya Kaguya"]
+  series_kw: ["kaguya"]
+  fandom_wiki: kaguyasama-wa-kokurasetai.fandom.com
+
+- id: rias-gremory
+  name: Rias Gremory
+  series: High School DxD
+  bucket: onee-san
+  tier_target: A
+  series_kw: ["high school dxd"]
+  fandom_wiki: highschooldxd.fandom.com
+
+- id: yoruichi-shihoin
+  name: Yoruichi Shihoin
+  series: Bleach
+  bucket: onee-san
+  tier_target: B
+  search_names: ["Yoruichi Shihoin", "Yoruichi Shihouin"]
+  fandom_wiki: bleach.fandom.com
+
+- id: ryuu-lion
+  name: Ryuu Lion
+  series: Is It Wrong to Try to Pick Up Girls in a Dungeon?
+  bucket: onee-san
+  tier_target: B
+  series_kw: ["danmachi", "is it wrong", "dungeon ni deai"]  # last: MAL romanji title
+  fandom_wiki: danmachi.fandom.com
+  # Subpage hidden from static HTML; verified on tvtropes.org 2026-08-30
+  tvtropes_pages: ["Characters/IsItWrongToTryToPickUpGirlsInADungeonOtherFamilia"]
+
+- id: saber-artoria
+  name: Saber
+  series: Fate/stay night
+  bucket: cool-beauty
+  tier_target: A
+  search_names: ["Saber", "Artoria Pendragon"]
+  series_kw: ["fate"]
+  fandom_wiki: typemoon.fandom.com
+
+- id: mikasa-ackerman
+  name: Mikasa Ackerman
+  series: Attack on Titan
+  bucket: cool-beauty
+  tier_target: B
+  series_kw: ["attack on titan", "shingeki"]
+  fandom_wiki: attackontitan.fandom.com
+
+- id: erza-scarlet
+  name: Erza Scarlet
+  series: Fairy Tail
+  bucket: cool-beauty
+  tier_target: B
+  fandom_wiki: fairytail.fandom.com
+
+- id: rikka-takanashi
+  name: Rikka Takanashi
+  series: Love, Chunibyo & Other Delusions
+  bucket: chuunibyou
+  tier_target: A
+  series_kw: ["chunibyo", "chuunibyou"]
+  fandom_wiki: chunibyo.fandom.com
+
+- id: megumin
+  name: Megumin
+  series: KonoSuba
+  bucket: chuunibyou
+  tier_target: B
+  series_kw: ["konosuba", "kono subarashii"]  # last: MAL title
+  fandom_wiki: konosuba.fandom.com
+
+- id: sanae-dekomori
+  name: Sanae Dekomori
+  series: Love, Chunibyo & Other Delusions
+  bucket: chuunibyou
+  tier_target: B
+  series_kw: ["chunibyo", "chuunibyou"]
+  fandom_wiki: chunibyo.fandom.com
+
+- id: ai-hoshino
+  name: Ai Hoshino
+  series: Oshi no Ko
+  bucket: idol-performer
+  tier_target: A
+  series_kw: ["oshi no ko"]
+  fandom_wiki: oshinoko.fandom.com
+
+- id: chika-takami
+  name: Chika Takami
+  series: Love Live! Sunshine!!
+  bucket: idol-performer
+  tier_target: B
+  series_kw: ["love live"]
+  fandom_wiki: love-live.fandom.com
+
+- id: miki-hoshii
+  name: Miki Hoshii
+  series: THE iDOLM@STER
+  bucket: idol-performer
+  tier_target: B
+  series_kw: ["idolmaster", "the idolm@ster"]  # stylized @ matches MAL title
+  fandom_wiki: idolmaster.fandom.com
+
+- id: historia-reiss
+  name: Historia Reiss
+  series: Attack on Titan
+  bucket: two-faced
+  tier_target: A
+  search_names: ["Historia Reiss", "Krista Lenz"]
+  series_kw: ["attack on titan", "shingeki"]
+  fandom_wiki: attackontitan.fandom.com
+
+- id: kuroneko
+  name: Kuroneko
+  series: Oreimo
+  bucket: two-faced
+  tier_target: B
+  search_names: ["Kuroneko", "Ruri Gokou"]
+  series_kw: ["oreimo", "ore no imouto"]  # last: MAL title
+  fandom_wiki: oreimo.fandom.com
+
+- id: nadeko-sengoku
+  name: Nadeko Sengoku
+  series: Monogatari
+  bucket: two-faced
+  tier_target: B
+  search_names: ["Nadeko Sengoku", "Sengoku Nadeko"]
+  series_kw: ["monogatari"]
+  fandom_wiki: bakemonogatari.fandom.com
+
+- id: holo
+  name: Holo
+  series: Spice and Wolf
+  bucket: otherworldly
+  tier_target: A
+  series_kw: ["spice and wolf", "ookami"]
+  fandom_wiki: spice-and-wolf.fandom.com
+
+- id: rem-rezero
+  name: Rem
+  series: Re:Zero - Starting Life in Another World
+  bucket: otherworldly
+  tier_target: B
+  series_kw: ["re zero"]
+  fandom_wiki: rezero.fandom.com
+
+- id: albedo-overlord
+  name: Albedo
+  series: Overlord
+  bucket: otherworldly
+  tier_target: B
+  series_kw: ["overlord"]
+  fandom_wiki: overlord.fandom.com
+  # Anime/LN characters live under the year-suffixed index (Characters/Overlord
+  # is the 2006 video game); verified on tvtropes.org 2026-08-30
+  tvtropes_pages: ["Characters/Overlord2012NazarickNPCs"]
